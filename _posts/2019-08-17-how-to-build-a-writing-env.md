@@ -3,6 +3,7 @@ layout: post
 title:  "搭建一个写作环境"
 date:   2019-08-17 12:59:18 +0800
 categories: tech
+typora-root-url: ..
 ---
 
 # 一、搭建一个写作环境
@@ -62,6 +63,18 @@ cp -R myblog/* clzbgl.github.io/
 http://jekyllcn.com/docs/permalinks/
 
 ### 2.3.2 引用图片
+
+```shell
+最后追加一行这个就可以了 typora-root-url: ..
+
+---
+layout: post
+title:  "搭建一个写作环境"
+date:   2019-08-17 12:59:18 +0800
+categories: tech
+typora-root-url: ..
+---
+```
 
 ![](/assets/img/2019/08/jekyll-img-solution.png)
 
