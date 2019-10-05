@@ -1,4 +1,10 @@
-
+---
+layout: post
+title:  "[未完成]应用缓存"
+date:   2019-09-22 19:51:42 +0800
+categories: tech
+typora-root-url: ..
+---
 
 缓存让数据更接近使用者目的是让访问速度更快
 
